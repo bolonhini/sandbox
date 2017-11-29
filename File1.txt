@@ -1,3 +1,4 @@
 Testing GIT
 Operating via terminal git-bash
 Third line on machine
+Third line on github
